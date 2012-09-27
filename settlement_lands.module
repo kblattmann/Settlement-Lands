@@ -1,0 +1,3 @@
+<?php
+
+include_once('settlement_lands.features.inc');
